@@ -1,10 +1,10 @@
 # Weather_Forecasting
 
-Project Overview
+# Project Overview
 
 This project focuses on weather forecasting using historical weather data and Python-based data analysis and machine learning techniques.
 
-🎯 Objectives
+# Objectives
 
 Analyze historical weather patterns
 
@@ -14,7 +14,7 @@ Build a predictive model for weather forecasting
 
 Evaluate model performance
 
-🛠️ Tools & Technologies
+# Tools & Technologies
 
 Python
 
@@ -26,7 +26,7 @@ Scikit-learn
 
 Jupyter Notebook
 
-📊 Key Features
+# Key Features
 
 Data cleaning and preprocessing
 
@@ -36,6 +36,6 @@ Weather trend visualization
 
 Forecasting using machine learning models
 
-✅ Outcome
+# Outcome
 
 The project successfully identifies weather trends and generates forecasts that can support planning and decision-making.
